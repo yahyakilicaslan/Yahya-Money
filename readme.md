@@ -396,7 +396,7 @@ If you are interested in contributing to Yaha Core source, please review our [co
 
 This software is [licensed under the Apache 2.0 license](LICENSE).
 
-© 2022 Halil Güney - Yahya KILIÇASLAN, PTE LTD
+© 2022 Halil Güney - Yahya KILIÇASLAN, 
 
 <p>&nbsp;</p>
 <p align="center">
